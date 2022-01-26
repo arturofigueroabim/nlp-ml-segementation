@@ -7,3 +7,4 @@ gunicorn
 seaborn
 flask_cors
 spacy
+spacy download en_core_web_md
