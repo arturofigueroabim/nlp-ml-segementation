@@ -1,7 +1,7 @@
 import numpy as np
 import spacy
 from spacy.tokens import Doc, Span, Token
-nlp = spacy.load("en_core_web_md")
+nlp = spacy.load("en_core_web_sm")
 import re
 
 
